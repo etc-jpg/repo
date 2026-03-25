@@ -1,10 +1,20 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Security+Engineer+%26+Bug+Hunter;I+Love+Security+:%3E">
+ <pre>
+  ___ _    ___                              _ 
+ | __| |_ / __|  _ __  __ _ ______ __ ____| |
+ | _||  _| (__| | '_ \/ _` (_-<_-< V  V _` |
+ |___|\__|\___| | .__/\__,_/__/__/\_/\_/\__,_|
+                |_|                           
+</pre>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Security+Engineer+%26+Bug+Hunter;I+Love+Security+:%3E">
+</div>
+
+<div align="center">
+ <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </div>
 
 <br>
@@ -21,7 +31,7 @@
 </div>
 
 <div align="center">
-  <samp><h1>My Tech Stack</h1></samp>
+ <samp><h1>My Tech Stack</h1></samp>
 </div>
 
 <div align="center">
@@ -36,5 +46,13 @@
 </div>
 
 <div align="center">
-  <samp><h1>etc-jpg's Github Stats</h1></samp>
+ <samp><h1>etc-jpg's Github Stats</h1></samp>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=etc-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=etc-jpg&theme=dark&hide_border=false">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etc-jpg&theme=dark&hide_border=false&layout=compact">
 </div>
