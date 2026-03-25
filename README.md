@@ -38,9 +38,3 @@
 <div align="center">
   <samp><h1>etc-jpg's Github Stats</h1></samp>
 </div>
-
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=etc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=etc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=etc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
