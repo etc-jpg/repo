@@ -7,18 +7,14 @@
                 |_|                           
 </pre>
 </div>
-
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Security+Engineer+%26+Bug+Hunter;I+Love+Security+:%3E">
 </div>
-
 <div align="center">
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </div>
-
 <br>
-
 <div align="center">
 <samp>
 🔐 Security Engineer | 🐛 Bug Hunter | ☕ Coffee Lover | 💻 Code Lover
@@ -29,11 +25,9 @@
 <b>I Hope You Enjoy My Tools</b>
 </samp>
 </div>
-
 <div align="center">
  <samp><h1>My Tech Stack</h1></samp>
 </div>
-
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -44,10 +38,16 @@
 <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
 </div>
-
 <div align="center">
- ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/etcpasswd) 
+ <samp><h1>etc-jpg's Github Stats</h1></samp>
 </div>
-
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=etc-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=etc-jpg&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etc-jpg&theme=dark&hide_border=false&layout=compact">
+</div>
+<br>
+<div align="center">
+ <samp><h2>💰 Support Me</h2></samp>
+ <a href="https://ko-fi.com/etcpasswd"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</div>
